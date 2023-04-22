@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813694120103",
+    "project_id": "chat-application-9d115",
+    "storage_bucket": "chat-application-9d115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813694120103:android:d1ac0fc44be2a82dc3ab82",
+        "android_client_info": {
+          "package_name": "com.alimasoud.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813694120103-phtrvog623tdcibqq08oe0d8du1jvhfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTWT-rInWBvxX_I9drouvmxCmMWlnIRjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813694120103-phtrvog623tdcibqq08oe0d8du1jvhfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
